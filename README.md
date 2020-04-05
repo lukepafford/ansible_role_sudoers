@@ -11,7 +11,7 @@ Example Playbook
 ----------------
     - hosts: servers
       roles:
-         - sudoers
+         - lukepafford.sudoers
 
 License
 -------
